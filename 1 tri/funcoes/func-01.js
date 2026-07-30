@@ -1,4 +1,4 @@
-//funções são blocos de código reaproveítaveís 
+// funções são blocos de código reaproveítaveís
 // podem ou não receber parâmetros
 // podem ou não retornar valores
 
@@ -7,9 +7,9 @@ function dizOla(){
     console.log("Olá")
 }
 function Olapessoa(nome){
-    console.log("Olá, "  + nome)
-
-//inovação
+    console.log("Olá, " + nome)
+}
+// inovação
 dizOla()
 Olapessoa("Luana")
 Olapessoa("Mano")
